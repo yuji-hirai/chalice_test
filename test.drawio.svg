@@ -1,26 +1,6 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="619px" height="115px" viewBox="-0.5 -0.5 619 115" content="&lt;mxfile&gt;&lt;diagram id=&quot;0pZ6lAZNidD9Z1gmWkzl&quot; name=&quot;ページ1&quot;&gt;7ZfLbtswEEW/xltDFvXyMpbjdtECAbJouwoYcSIRpUSBomO7X9+hRephOXCQ1EUW2RjiJTkczrmk5BlJy/0XReviu2QgZr7H9jOynvn+Mo7w1wiHVlhEUdAqueLMar1wz/+AFT2rbjmDZjRQSyk0r8diJqsKMj3SqFJyNx72JMV41ZrmMBHuMyqm6g/OdNGqiR/3+lfgeeFWXkTLtqekbrDdSVNQJncDidzOSKqk1O1TuU9BmOK5urTzNi/0dokpqPRrJvjthGcqtnZvt+k9ChuqcqrBJqkPbudyqwWvIO0K683IitGmAGYbz6A0x1J9o48g7mTDNZcV9j1KrWU5GHAjeG46tKxRpbaVYeKgUCh0KbC9wEcsUm3WL/e58dOc7hoyhwwhrp64EKkUUh3TI5swCUmAOg5kHEO5vkpWGGFld4sZwP7Fii06DmhgkCVodcAhdkIcWPda88ZxMg9bZdd7IbaFLQY2iGI3kFr/5V30HhE+WErniZEJsZtvqw/Mida1wDAm+oOQlD08UkGr7Dj3/9ML3U3j6CXeGXruuA7pOaLvYRdM2HFTxQr0BwboUnwgU2Jrf03W5KrEfM87IbY8QyzxpsTC4P3EwgmxVMgt2yhZfWRmmUny6Zjk+VMWXZUZiU/vSG96Q0YO45DZkryfWTRhNiEFFbsx3wGmpoI2Dc9OiqqV/N2923tlUMYwCFeRuaywJurw0wI+Nn6ZBu7ONtf7Yef6MGzdgeK4QQP1KLaZApt8f1ws/aC04bnDYDUFAu/i53H4c9W2K9xJbpzencbl+P5MFuHpS62RW5WBnTf89DgJRdyN+nIojV8hoCehjgbotv4qT8SfnriaJwL3uuxALub+G00RBvHFWP/OFcmnK67miii8eLxfa4qYeJdCvdkT2Oz/bbXD+/+s5PYv&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="434px" height="115px" viewBox="-0.5 -0.5 434 115" content="&lt;mxfile&gt;&lt;diagram id=&quot;0pZ6lAZNidD9Z1gmWkzl&quot; name=&quot;ページ1&quot;&gt;7VZNj5swEP01XCOC+UiOCdm0h60UaQ9tT5EXO2DVMMg4Cemvrw02HyHRrnYVaQ+9IObZHs+897BxUJzX3wQusx9AKHc8l9QO2jiet4xC9dTApQXmYei3SCoYMVgPvLC/1ICuQY+M0Go0UQJwycoxmEBR0ESOMCwEnMfTDsDHu5Y4pRPgJcF8iv5kRGYtuvCiHv9OWZrZnefhsh3JsZ1sOqkyTOA8gNCTg2IBINu3vI4p1+RZXtp12zujXWGCFvI9C1C74IT50fS2el6b0uTF9gtHyVlB445O10FrgquMEhOcqJBMEfSMXynfQcUkg0KNvYKUkA8mrDhL9YCEUqHYRIkqlwoFZDLnKp6rV0VNqffP61S7aIbPFZrhsuQqjc6+54DJ/hVzXCTN2gPjPAYOoikabYNFgHyFq+WEqQ3sWAGFymu61HXR+i57804TZWYKOZXioqaYBYH1rTFytHBnQYuce19Y8bOBJSLPuNE4Me1y92KpF6PXbe38iXZMs1hQ+YUFtCXu0VSxjbdBG/RQxTzXvVJseUOxhTtVLPA/r1gwUSzmcCRbAcVX1izRRR6aIm9/ZeFDNUP2vrCaRe5EsSi0Mg41W6LPaxZONJsoRQuy0reK5pTjqmLJFalSwJ/upuiRAY2BH6xDfVgpTsTllxG4CX7rQHVnwk09HNxchtGOCqYa1KI2YFspJZPb7E3qB9QGtz4GgwnK1Vl8Gqe/xbbZYQdMO737Gpfj83MxD6yMNkkFR5FQs254kV2lQvZEvZ9KYpFSOUnVGKBr/V2eiP574mGe8O112Qk5n3kfNEXgR2/m+rArVNj/p7XT+79d9PQP&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
-        <path d="M 567.96 60.44 L 578.26 58.73 L 578.26 49.06 L 586.61 48.5 L 586.61 48.53 L 586.61 36.26 L 578.26 35.65 L 578.26 25.67 L 567.96 23.91 Z M 558.78 76 L 554.03 73.61 L 554.03 70.5 L 549.85 71.45 L 546 69.53 L 546 14.97 L 549.85 13.05 L 554.03 14 L 554.03 10.88 L 558.78 8.5 L 593.34 18.32 L 595.92 17.7 L 604.86 20.42 L 604.86 23.77 L 612.1 22.59 L 618 24.41 L 618 36.35 L 600.78 37.14 L 599.18 37.05 L 599.18 47.68 L 600.78 47.59 L 618 48.39 L 618 60.3 L 612.1 62.14 L 604.86 60.95 L 604.86 64.29 L 595.92 67.02 L 593.1 66.35 Z" fill="#f58534" stroke="none" pointer-events="all"/>
-        <path d="M 594.67 36.79 L 594.67 35.7 L 604.86 34.97 L 604.86 23.77 L 612.1 22.59 L 612.1 35.77 Z M 592.74 48.91 L 586.61 48.53 L 586.61 36.26 L 592.74 35.83 Z M 604.86 60.95 L 604.86 49.74 L 594.67 49.05 L 594.67 47.94 L 612.1 48.95 L 612.1 62.14 Z M 567.96 21.39 L 578.26 23.36 L 578.26 21.91 L 595.92 17.7 L 595.92 34.18 L 578.26 35.65 L 578.26 25.67 L 567.96 23.91 Z M 567.96 62.82 L 567.96 60.44 L 578.26 58.73 L 578.26 49.06 L 595.92 50.65 L 595.92 67.02 L 578.26 62.82 L 578.26 60.89 Z M 554.03 73.61 L 554.03 10.88 L 558.78 8.5 L 558.78 76 Z M 549.85 71.45 L 546 69.53 L 546 14.97 L 549.85 13.05 Z" fill-opacity="0.3" fill="#000000" stroke="none" pointer-events="all"/>
-        <path d="M 594.67 47.94 L 600.78 47.59 L 618 48.39 L 612.1 48.95 Z M 578.26 49.06 L 586.61 48.5 L 604.86 49.74 L 595.92 50.65 Z" fill-opacity="0.3" fill="#ffffff" stroke="none" pointer-events="all"/>
-        <path d="M 594.67 36.79 L 612.1 35.77 L 618 36.35 L 600.78 37.14 Z M 578.26 35.65 L 595.92 34.18 L 604.86 34.97 L 586.61 36.26 Z" fill-opacity="0.5" fill="#000000" stroke="none" pointer-events="all"/>
-        <g transform="translate(-0.5 -0.5)">
-            <switch>
-                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 83px; margin-left: 582px;">
-                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
-                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
-                                ECS Fargate
-                            </div>
-                        </div>
-                    </div>
-                </foreignObject>
-                <text x="582" y="95" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
-                    ECS Fargate
-                </text>
-            </switch>
-        </g>
         <path d="M 398.34 82.5 C 380.11 82.5 364 67.59 364 48.3 L 364 44.38 C 364 28.77 377.07 10.5 398.6 10.5 C 417.54 10.5 433 25.95 433 44.71 L 432.98 47.8 C 432.98 67.45 417.3 82.5 398.34 82.5 Z" fill="#f58534" stroke="none" pointer-events="all"/>
         <path d="M 433 44.71 L 432.98 47.8 C 432.98 67.47 417.3 82.5 398.34 82.5 C 380.11 82.5 364 67.58 364 48.3 L 364 44.38 C 364 62.44 377.2 79.56 398.84 79.56 C 418.26 79.56 433 63.56 433 44.71 Z" fill-opacity="0.3" fill="#000000" stroke="none" pointer-events="all"/>
         <rect x="364" y="10.5" width="0" height="0" fill="none" stroke="rgb(0, 0, 0)" pointer-events="all"/>
@@ -85,8 +65,6 @@
         <path d="M 170.88 45.5 L 163.88 49 L 165.63 45.5 L 163.88 42 Z" fill="#545b64" stroke="#545b64" stroke-miterlimit="10" pointer-events="all"/>
         <path d="M 269 41.25 L 340.63 41.25" fill="none" stroke="#545b64" stroke-miterlimit="10" pointer-events="stroke"/>
         <path d="M 345.88 41.25 L 338.88 44.75 L 340.63 41.25 L 338.88 37.75 Z" fill="#545b64" stroke="#545b64" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 452 45.5 L 523.63 45.5" fill="none" stroke="#545b64" stroke-miterlimit="10" pointer-events="stroke"/>
-        <path d="M 528.88 45.5 L 521.88 49 L 523.63 45.5 L 521.88 42 Z" fill="#545b64" stroke="#545b64" stroke-miterlimit="10" pointer-events="all"/>
     </g>
     <switch>
         <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
